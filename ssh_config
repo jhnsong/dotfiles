@@ -1,0 +1,5 @@
+# CAEN
+Host jhn
+  HostName login.engin.umich.edu
+  User jhnsong
+  Compression yes
